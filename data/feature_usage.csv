@@ -1,1 +1,7 @@
+feature,reach,impact,confidence,effort
+Guided Onboarding,1200,3,80,2
+Inline Suggestions,900,5,70,3
+Export to Teams,600,2,85,1
+Admin Analytics,300,3,60,2
+Contextual Help,1500,2,70,1
 
